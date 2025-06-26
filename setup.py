@@ -7,8 +7,6 @@ setup(
     author= 'ABHIRAM SAI',
     author_email= 'abhiramsai6744@gmail.com',
 =======
-    author= 'Bappy Ahmed',
-    author_email= 'entbappy73@gmail.com',
 >>>>>>> e41c49fae9eb6ae92fb495ed85ca1d9da8dcd6c4
     packages= find_packages(),
     install_requires = []
